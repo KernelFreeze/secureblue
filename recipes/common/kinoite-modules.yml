@@ -4,6 +4,7 @@ modules:
       - kde-connect
       - kde-connect-libs
       - kdeconnectd
+      - plasma-welcome-fedora
       - fedora-chromium-config-kde
       - fuse-encfs
   - type: files
